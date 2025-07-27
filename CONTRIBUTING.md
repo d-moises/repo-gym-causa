@@ -11,6 +11,7 @@ Notably, we are not accepting these forms of contributions:
 
 - New environments
 - Testing new branch
+- Contribuyendo con MCPT-27 tambien
 
 # Development
 
