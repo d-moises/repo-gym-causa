@@ -10,6 +10,7 @@ At this time we are currently accepting the current forms of contributions:
 Notably, we are not accepting these forms of contributions:
 
 - New environments
+- Testing new branch
 
 # Development
 
